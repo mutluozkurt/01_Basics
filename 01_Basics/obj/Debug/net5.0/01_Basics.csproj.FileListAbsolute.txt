@@ -1,0 +1,16 @@
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\bin\Debug\net5.0\01_Basics.exe
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\bin\Debug\net5.0\01_Basics.deps.json
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\bin\Debug\net5.0\01_Basics.runtimeconfig.json
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\bin\Debug\net5.0\01_Basics.runtimeconfig.dev.json
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\bin\Debug\net5.0\01_Basics.dll
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\bin\Debug\net5.0\ref\01_Basics.dll
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\bin\Debug\net5.0\01_Basics.pdb
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.csproj.AssemblyReference.cache
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.AssemblyInfoInputs.cache
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.AssemblyInfo.cs
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.csproj.CoreCompileInputs.cache
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.dll
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\ref\01_Basics.dll
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.pdb
+C:\Users\KAHLA-SSD\source\repos\01_Basics\01_Basics\obj\Debug\net5.0\01_Basics.genruntimeconfig.cache

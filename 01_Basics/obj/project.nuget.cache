@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4mJD2GmNTAMJneZx8WBgdHk/FJmQRnoV/xP5GfCXJkyqo+gIe/Gu6aZxl68ANq/YQ3PPWbSl433GIm7XV6Esg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KAHLA-SSD\\source\\repos\\01_Basics\\01_Basics\\01_Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KAHLA-SSD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
